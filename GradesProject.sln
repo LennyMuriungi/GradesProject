@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GradesProject", "GradesProject\GradesProject.vbproj", "{4BF988D9-3702-45A5-895B-372D8C21254F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.vbproj", "{30E6EC21-0F23-40B7-B6E1-E376E159A11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF988D9-3702-45A5-895B-372D8C21254F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF988D9-3702-45A5-895B-372D8C21254F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF988D9-3702-45A5-895B-372D8C21254F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF988D9-3702-45A5-895B-372D8C21254F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E6EC21-0F23-40B7-B6E1-E376E159A11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E6EC21-0F23-40B7-B6E1-E376E159A11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E6EC21-0F23-40B7-B6E1-E376E159A11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E6EC21-0F23-40B7-B6E1-E376E159A11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CD64C1-7F82-498E-9A86-1593D210983D}
+	EndGlobalSection
+EndGlobal
